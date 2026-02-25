@@ -1,0 +1,10 @@
+let   numA;
+numA= +prompt("enter your first number");
+console.log(numA);
+let   numB;
+numB= +prompt("enter your second number");
+console.log(numB);
+let result;
+result= numA + numB;
+console.log(result);
+alert("the result is :" + result);
